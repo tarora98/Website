@@ -1,0 +1,69 @@
+{
+        "locale":"en",
+        "home_string_1":"INDIA BIGGEST",
+        "home_string_2":"REAL CASH GAME",
+        "home_string_3":"IN YOUR LANGUAGE!",
+        "linkbutton":"GET APP LINK",
+        "mobnumber":"Mobile Number",
+        "small_slider1":"Instant",
+        "small_slider1.1":"Withdraw",
+        "small_slider2":"100 % Legal & ",
+        "small_slider2.1":"Secure",
+        "home_string_4" :"लाखsasas+",
+        "MobNo":"Mobile Number ...",
+        "GETAPPLINK":"GETAPPLINK",
+        "Instant":"INSTANT WITHDRAW",
+        "Customer":"Customer",
+        "Support":"Support",
+        "Cashback":"Cashback ",
+        "Offer":"Offer",
+        "crore+":"Crore+ Prize",
+        "given":"Given",
+        "Crore+":"Crore +",
+        "Player":"Players",
+        "Rating":"Rating",
+        "install":"How to install WinZO ?",
+        "25+games":"25 + Real Money Games",
+        "social":"WINZO SOCIAL",
+        "submitmail":"To submit your game write to us :",
+        "email":"partnerships @winzogames.com",
+        "withdraw":"OUR WITHDRAWAL PARTNERS",
+        "download":"Download WinZo Now",
+         "mobileapp":"DOWNLOADING APP & GET RS.50",
+         "cashbonus10" :"₹10",
+         "cashbonusresult": "CASH BONUS" ,
+         "cashbonus40":"₹40",
+         "cashbonusticket":"AND TICKETS WORTH",
+         "alert":"App Link Sent",
+         "getapp":
+        {
+            "head":"INDIA’S BIGGEST REAL CASH GAME IN YOUR LANGUAGE!",
+            "link":"Get App Link",
+            "crore":"Crore+",
+            "play":"Players",
+            "ar":"App rating",
+            "crores":"Crores",
+            "pd":"Prizes distributed",
+            "how":"HOW TO INSTALL",
+            "step":{
+                "1":"STEP1",
+                "2":"STEP2",
+                "3":"STEP3",
+                "4":"STEP4",
+                "5":"STEP5",
+                "6":"STEP6"
+            },
+    
+            "content":{
+                "1":"Download APK",
+                "2":"Tap 'OK' on the dialouge box that appears",
+                "3":"Go to 'Settings'",
+                "4":"In Security options Enable 'Unknown Sources' to allow installation",
+                "5":"Tap 'OK' when asked for confirmation",
+                "6":"Tap on 'INSTALL' and you are now ready to Register and Rock on WinZO!"
+            },
+            "social":"WINZO SOCIAL’S"
+    
+        }
+        
+}
